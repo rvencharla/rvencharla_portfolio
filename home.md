@@ -5,4 +5,4 @@ layout: page
 
 ## Hello, my name is Rama! I deliver innovative solutions to complex problems.
 
-![screenshot](assets/rama_profile.jpg)
+![screenshot](assets/rama.jpg)
