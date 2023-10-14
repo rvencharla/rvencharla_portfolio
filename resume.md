@@ -4,13 +4,11 @@ permalink: "/resume/"
 layout: page
 ---
 
-## Resume Download
-
-[Resume Download](https://google.com)
+## [Resume Download](https://google.com)
 
 ## Education 
 
-[University of Illinois at Urbana-Champaign](https://illinois.edu/), Champaign, IL
+#### [University of Illinois at Urbana-Champaign](https://illinois.edu/), Champaign, IL
 
 Bachelor of Science in Computer Science, Minor in Finance 
 
