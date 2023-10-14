@@ -25,9 +25,9 @@ Architecture, Distributed Systems, Probability and Statistics, Systems Programmi
 
 ## Professional Experience
 
-#### Liberty Mutual Insurance, Portsmouth, NH
+Liberty Mutual Insurance, Portsmouth, NH
 
-Software Engineering Intern, May 2023 – August 2023
+### Software Engineering Intern, May 2023 – August 2023
 
 - Developed and deployed a new billing solution digitalizing invoice management for customers, agents, and 
 brokers using Agile methods, improving ease of access to billing information by 30%
@@ -36,7 +36,7 @@ legacy applications, ensuring that the system was able to publish invoices corre
 
 Luxonis Holding Corporation, Westford, MA
 
-Product Development Intern, June 2022 – August 2022
+### Product Development Intern, June 2022 – August 2022
 
 - Streamlined the customer onboarding process for the Oak-D-Lite Computer Vision camera by integrating and 
 developing code bases that allowed customers to get up and running quickly
@@ -44,7 +44,7 @@ developing code bases that allowed customers to get up and running quickly
 
 Sayollo, Westford, MA
 
-Technical Design & Strategy Intern, June 2021 – July 2021
+### Technical Design & Strategy Intern, June 2021 – July 2021
 
 - Built out SDK for seamless ad integration and implemented it for a mobile racing game, 3 Real Racing
 - Constructed a market research report to suggest ways to grow the company through the metaverse space
@@ -53,7 +53,7 @@ Technical Design & Strategy Intern, June 2021 – July 2021
 
 John Deere CyberTractor Challenge, Des Moines, IA
 
-Embedded Software Engineer, June 2023 – July 2023
+### Embedded Software Engineer, June 2023 – July 2023
 
 - Identified and exploited vulnerabilities in the tractor's CAN Bus system, and developed a proof-of-concept 
 exploit that could start the tractor’s engine remotely
@@ -61,14 +61,14 @@ exploit that could start the tractor’s engine remotely
 
 [Illinois Computer Science](https://cs.illinois.edu/), Urbana, IL
 
-CS 124 Course Assistant, May 2023 – Present
+### CS 124 Course Assistant, May 2023 – Present
 
 - Tutored fundamentals of Java and Android Application Development for intro CS course with over 1500 students
 - Provided valuable feedback and practical insights to help students improve their problem-solving abilities
 
 Hack3, Westford, MA
 
-Lead Organizer, February 2021 – August 2022
+### Lead Organizer, February 2021 – August 2022
 
 - Raised over $5,000 in sponsorships including Xylem, Amazon, and Postman, and conducted the largest high 
 school global hackathon with over 375 participants, 20 esteemed judges, and over 10 workshops
