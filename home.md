@@ -14,3 +14,9 @@ layout: page
 
 #### I hope to give back to the community by sharing my knowledge and experience.
 
+### Key Accomplishments
+- Top 75 in Breakthrough Junior Challenge 2020
+- Experience as a leader in multiple organizations of many sizes
+- Experience in multiple programming languages and frameworks
+- Efficent communicator and experience with Agile Project Management
+
