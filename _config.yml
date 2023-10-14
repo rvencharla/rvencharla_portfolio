@@ -1,7 +1,7 @@
 title: "Rama Rao Vencharla"
 author: "Rama Rao Vencharla"
 description: "Made by Rama Rao Vencharla"
-# permalink: /:title/
+permalink: /
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
