@@ -3,4 +3,6 @@ title: "Home"
 layout: page
 ---
 
-# Home
+## Hello, my name is Rama! I deliver innovative solutions to complex problems.
+
+![screenshot](assets/IMG_2474.JPG)
