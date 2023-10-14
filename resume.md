@@ -10,83 +10,75 @@ layout: page
 
 ## Education 
 
-University of Illinois at Urbana-Champaign, Champaign, IL
-Bachelor of Science in Computer Science, Minor in Finance 
+[University of Illinois at Urbana-Champaign](https://illinois.edu/), Champaign, IL
+
+Bachelor of Science in Computer Science | Minor in Finance 
+
 Honors: Dean’s List | GPA: 3.87
 
-## Based on
+## Relevant Coursework
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+Computer Science: Computer Science: Discrete Structures, Data Structures, Linear Algebra, Calculus III, Data Science, Computer 
+Architecture, Distributed Systems, Probability and Statistics, Systems Programming
 
-## Installation (jekyll-remote-theme method)
+## Professional Experience
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+Liberty Mutual Insurance, Portsmouth, NH
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+Software Engineering Intern, May 2023 – August 2023
 
-plugins:
-  - jekyll-remote-theme
-```
+- Developed and deployed a new billing solution digitalizing invoice management for customers, agents, and 
+brokers using Agile methods, improving ease of access to billing information by 30%
+- Collaborated with cross-functional teams to perform end-to-end testing on a new billing system integrated with 
+legacy applications, ensuring that the system was able to publish invoices correctly and efficiently
 
-Note: to enable icons you also need to copy over the `_data` folder.
+Luxonis Holding Corporation, Westford, MA
 
-## Config
+Product Development Intern, June 2022 – August 2022
 
-Your `_config.yml` could for example look like this:
+- Streamlined the customer onboarding process for the Oak-D-Lite Computer Vision camera by integrating and 
+developing code bases that allowed customers to get up and running quickly
+- Automated the process of image labeling for the Depth AI software, saving 100 hours of manual work
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+Sayollo, Westford, MA
 
-# Layout
+Technical Design & Strategy Intern, June 2021 – July 2021
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+- Built out SDK for seamless ad integration and implemented it for a mobile racing game, 3 Real Racing
+- Constructed a market research report to suggest ways to grow the company through the metaverse space
 
-# Menu
+## Leadership and Involvement
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+John Deere CyberTractor Challenge, Des Moines, IA
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+Embedded Software Engineer, June 2023 – July 2023
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+- Identified and exploited vulnerabilities in the tractor's CAN Bus system, and developed a proof-of-concept 
+exploit that could start the tractor’s engine remotely
+- Alerted John Deere ISG employees on the security risks of connected tractors with a comprehensive presentation 
 
-plugins:
- - jekyll-feed
+[Illinois Computer Science](https://cs.illinois.edu/), Urbana, IL
 
-```
+CS 124 Course Assistant, May 2023 – Present
 
-## MathJax
+- Tutored fundamentals of Java and Android Application Development for intro CS course with over 1500 students
+- Provided valuable feedback and practical insights to help students improve their problem-solving abilities
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
+Hack3, Westford, MA
 
-## License
+Lead Organizer, February 2021 – August 2022
 
-[public domain](http://unlicense.org/)
+- Raised over $5,000 in sponsorships including Xylem, Amazon, and Postman, and conducted the largest high 
+school global hackathon with over 375 participants, 20 esteemed judges, and over 10 workshops
+- Managed team by delegating tasks and providing status updates to the rest of the team
 
-## Screenshots
+## Awards and Distinctions
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+- Presidential Volunteer Service Award (Gold) | July 2022
+- Top 75 in Breakthrough Junior Challenge - [Quantum Cryptography](https://youtu.be/4Q8VwCYfFdA)  | June 2020
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
+## Skills and Technology
 
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+Skills: Java | Python | C++ | C | JavaScript | Arduino | CAN | TypeScript | React | Angular | OOP | Bash | Linux | ROS 2
+
+Technologies: OpenCV | Docker | AWS | Git | MongoDB | Node.js | Flask | PostgreSQL | Spring Boot | Kubernetes
