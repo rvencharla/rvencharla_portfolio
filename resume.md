@@ -25,7 +25,7 @@ Architecture, Distributed Systems, Probability and Statistics, Systems Programmi
 
 ## Professional Experience
 
-# Liberty Mutual Insurance, Portsmouth, NH
+#### Liberty Mutual Insurance, Portsmouth, NH
 
 Software Engineering Intern, May 2023 – August 2023
 
