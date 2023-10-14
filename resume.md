@@ -6,24 +6,26 @@ layout: page
 
 ## Resume Download
 
-[download](https://google.com) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+[Resume Download](https://google.com)
 
 ## Education 
 
 [University of Illinois at Urbana-Champaign](https://illinois.edu/), Champaign, IL
 
-Bachelor of Science in Computer Science | Minor in Finance 
+Bachelor of Science in Computer Science, Minor in Finance 
 
-Honors: Dean’s List | GPA: 3.87
+Honors: Dean’s List
+
+GPA: 3.87
 
 ## Relevant Coursework
 
-Computer Science: Computer Science: Discrete Structures, Data Structures, Linear Algebra, Calculus III, Data Science, Computer 
+Discrete Structures, Data Structures, Linear Algebra, Calculus III, Data Science, Computer 
 Architecture, Distributed Systems, Probability and Statistics, Systems Programming
 
 ## Professional Experience
 
-Liberty Mutual Insurance, Portsmouth, NH
+# Liberty Mutual Insurance, Portsmouth, NH
 
 Software Engineering Intern, May 2023 – August 2023
 
@@ -74,11 +76,11 @@ school global hackathon with over 375 participants, 20 esteemed judges, and over
 
 ## Awards and Distinctions
 
-- Presidential Volunteer Service Award (Gold) | July 2022
-- Top 75 in Breakthrough Junior Challenge - [Quantum Cryptography](https://youtu.be/4Q8VwCYfFdA)  | June 2020
+- Presidential Volunteer Service Award (Gold) - July 2022
+- Top 75 in Breakthrough Junior Challenge - [Quantum Cryptography](https://youtu.be/4Q8VwCYfFdA)  - June 2020
 
 ## Skills and Technology
 
-Skills: Java | Python | C++ | C | JavaScript | Arduino | CAN | TypeScript | React | Angular | OOP | Bash | Linux | ROS 2
+Skills: | Java | Python | C++ | C | JavaScript | Arduino | CAN | TypeScript | React | Angular | OOP | Bash | Linux | ROS 2
 
-Technologies: OpenCV | Docker | AWS | Git | MongoDB | Node.js | Flask | PostgreSQL | Spring Boot | Kubernetes
+Technologies: | OpenCV | Docker | AWS | Git | MongoDB | Node.js | Flask | PostgreSQL | Spring Boot | Kubernetes
