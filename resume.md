@@ -1,10 +1,10 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Resume"
+permalink: "/resume/"
 layout: page
 ---
 
-## Installation
+## Cool Resume
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
