@@ -4,7 +4,7 @@ permalink: "/resume/"
 layout: page
 ---
 
-## [Resume Download](https://drive.google.com/file/d/1lCw8KaCwjWFRotKPd5CcvlnA4TQvV7tc/view?usp=sharing)
+## [Resume Download](https://drive.google.com/file/d/1VqyAFdzgGf1pdjPBplQaoZGGLx_TldKO/view?usp=sharing)
 
 ## Education 
 
